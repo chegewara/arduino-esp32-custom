@@ -1,4 +1,4 @@
-esp-idf: release/v4.4 9269a536ac
+esp-idf: 6407ecb3f8
 arduino: idf-release/v4.4 2e6e5e4c
 esp32-camera: master 1c3ec57
 esp-dl: master f3006d7
